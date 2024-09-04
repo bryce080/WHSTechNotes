@@ -6,3 +6,5 @@ Today I completed The Drone Slide challenge code for my drone.
 Today I started on the Spiraling Out of Control challenge.
 # September 3, 2024
 Today I continued on my Spiraling Out of Control challenge code.
+# September 4, 2024
+I finished lesson 1.6 today.
