@@ -10,3 +10,5 @@ Today I continued on my Spiraling Out of Control challenge code.
 I finished lesson 1.6 today.
 # September 5, 2024
 I finished lesson 1.7 today.
+# September 6, 2024
+I started lesson 1.8 today.
