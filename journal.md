@@ -12,3 +12,5 @@ I finished lesson 1.6 today.
 I finished lesson 1.7 today.
 # September 6, 2024
 I started lesson 1.8 today.
+# September 9, 2024
+I finished lesson 1.8 today.
