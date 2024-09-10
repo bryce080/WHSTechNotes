@@ -19,4 +19,4 @@ I finished lesson 1.8 today.
 # September 10, 2024
 This is an example entry.
 # September 10, 2024
-I think you could've specified for us to make our journal public and emphasized that we only had to do one per week. I did not encounter any challenges while following intrucions.
+I think you could've specified for us to make our journal public and emphasized that we only had to do one per week. I did not encounter any challenges while following instructions.
