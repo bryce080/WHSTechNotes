@@ -14,3 +14,5 @@ I finished lesson 1.7 today.
 I started lesson 1.8 today.
 # September 9, 2024
 I finished lesson 1.8 today.
+# September 10, 2024
+This is an example entry.
