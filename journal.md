@@ -22,3 +22,5 @@ This is an example entry.
 I think you could've specified for us to make our journal public and emphasized that we only had to do one per week. I did not encounter any challenges while following instructions.
 # September 17, 2024
 This is a free week.
+# September 24, 2024
+I am currently working on Python Institute.
