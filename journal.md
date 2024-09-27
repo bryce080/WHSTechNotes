@@ -23,4 +23,4 @@ I think you could've specified for us to make our journal public and emphasized 
 # September 17, 2024
 This is a free week.
 # September 24, 2024
-I am currently working on Python Institute.
+Following instructions exactly as given is important in coding because it can cause logic errors. If you dont follow intructions exactly as given, it can lead to your codes meaning something else entirely or it just not working in the first place. This shows how following intructions exactly as given is important because it can lead to logic errors which can lead to your code not working or meaning something else.
