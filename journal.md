@@ -48,3 +48,5 @@ AI contributes to VR by making user interaction easier with things like commands
 To me the term "brain rot" means somethign that is so stupid it'll rot your brain. I feel like social media doesn't affect my well-being because nothing online can affect how I am in real life. The word "slop" usually means something bad, for example, "My music is slop." Meanwhile the word "lore" is used to describe a backstory or details of somethign that happened.
 # December 16, 2024
 I am excited for winter break because I'll be able to get a break from the amount of work I'm getting and I'm going to gte to hang out with my friends.
+# January 8, 2025
+1. What I enjoyed the most about this class is that I'm able to catch up on other classes work. 2. I'd like to start learning about the basics of making games if possible. 3. I am interested in pursuing a Unity certification because Unity is used to make games. I'd need to learn the basics of Unity and basics of making games so I'd feel prepared.
