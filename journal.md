@@ -52,3 +52,6 @@ I am excited for winter break because I'll be able to get a break from the amoun
 1. What I enjoyed the most about this class is that I'm able to catch up on other classes work. 2. I'd like to start learning about the basics of making games if possible. 3. I am interested in pursuing a Unity certification because Unity is used to make games. I'd need to learn the basics of Unity and basics of making games so I'd feel prepared.
 # January 13, 2025
 I think that the shift to AI will help a lot. This is because of jobs like separating good apples from bad apples for example or sorting inventory. AI would be able to detect what a good apple is and toss out the bad ones. I'd prepare myself by having a backup plan because I'd know that I could be replaced.
+# January 22, 2025
+I think that the governments intervention impacts technology companies and users because now if companies are affiliated with China, they have to sell to the government because of security concerns. Then, users will lose access to their apps and become suppressed. TikTok could show how their security works and ensure that the users privacy is safe.
+One feature I woulde implement is to have a password to history. A lesson I could take from this situation is making sure that the security of my users are safe. Then I wouldn't associate myself with suspicious companies.
