@@ -58,7 +58,7 @@ One feature I woulde implement is to have a password to history. A lesson I coul
 # January 27, 2025
 | Name | Car | Mistake |
 |------|-----|---------|
-|      |     |         |
+|Jimmy|     |         |
 |      |     |         |
 |      |     |         |
 |      |     |         |
