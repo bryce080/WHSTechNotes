@@ -55,3 +55,10 @@ I think that the shift to AI will help a lot. This is because of jobs like separ
 # January 22, 2025
 I think that the governments intervention impacts technology companies and users because now if companies are affiliated with China, they have to sell to the government because of security concerns. Then, users will lose access to their apps and become suppressed. TikTok could show how their security works and ensure that the users privacy is safe.
 One feature I woulde implement is to have a password to history. A lesson I could take from this situation is making sure that the security of my users are safe. Then I wouldn't associate myself with suspicious companies.
+# January 27, 2025
+| Name | Car | Mistake |
+|------|-----|---------|
+|      |     |         |
+|      |     |         |
+|      |     |         |
+|      |     |         |
