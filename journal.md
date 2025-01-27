@@ -58,7 +58,7 @@ One feature I woulde implement is to have a password to history. A lesson I coul
 # January 27, 2025
 | Name | Car | Mistake |
 |------|-----|---------|
-|Jimmy|||
-|Kayla|||
-|Bart|||
-|Harrison|||
+|Jimmy|Honda Civic|Drilled Hole In Gas Tank|
+|Kayla|GMC Sierra|Fixed Wrong Problem|
+|Bart|Toyota Corolla|Left Stains On Carpet|
+|Harrison|Subaru Forester|Left The Oil Cap Off|
