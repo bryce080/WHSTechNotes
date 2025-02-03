@@ -62,3 +62,6 @@ One feature I woulde implement is to have a password to history. A lesson I coul
 |Kayla|GMC Sierra|Fixed Wrong Problem|
 |Bart|Toyota Corolla|Left Stains On Carpet|
 |Harrison|Subaru Forester|Left The Oil Cap Off|
+# February 3, 2025
+ Technology can help to increase aviation safety by integrating more AI into the system. This can help by automating tedious tasks done by humans. They can also take care of data and do predictive analytics do help prevent problems for aviation.
+ Then using both AI and humans can help prevent even more problems. AI can do most of the work while humans can check it. If there is anything wrong, they can change whatever it is and keep moving.
