@@ -73,3 +73,5 @@ One feature I woulde implement is to have a password to history. A lesson I coul
 |Hexagon|Brown|6|
 |Triangle|Purple|4|
 |Octagon|Red|3|
+# February 18, 2025
+The most interesting thing I learned last week was that I learned that Elden Ring Nightreign is coming out on the 30th of May. 
