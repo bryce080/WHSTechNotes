@@ -78,3 +78,11 @@ The most interesting thing I learned last week was that I learned that Elden Rin
 # February 24, 2025
  Technology can be use to help educatiors and service providers stay updated because it can keep track of new slang. It can also make a graph of how popular it is and even what they mean. Some potential benefits is that apps can understand someone who is using this slang. On the other hand, the apps may get confused easier and misunderstand trying to see if someone is using slang.
  It is best for school to leave slang informal. The reason they should is because it would make education for children much harder on both teachers and children, introducing a whole new set of vocabulary that is not necessarily needed. Continuing off of that, misunderstanding would impact interactions because they can lead to cluelessness, sadness, or anger. An example is if someone thinks you're saying something mean to them, but in reality you're saying something completely different.
+# March 3, 2025
+ | Name | Power | Challenge |
+|------|-----|---------|
+|Zara|Telekenesis|Secure Building|
+|Aether|Weather Manipulation	|Prevent Assassination|
+|Thorne|Invisibility|Underwater Rescue|
+|Silver|Mind Control|Retrieve Stolen Goods|
+|Tangier|Shapeshifting|Extract Prisoner|
