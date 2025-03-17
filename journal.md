@@ -86,3 +86,6 @@ The most interesting thing I learned last week was that I learned that Elden Rin
 |Thorne|Invisibility|Underwater Rescue|
 |Silver|Mind Control|Retrieve Stolen Goods|
 |Tangier|Shapeshifting|Extract Prisoner|
+# March 17, 2025
+ Over the break, I mostly used technology like games, social media, and apps on my computer. Games entertained me because I got to play with my friends and do somethign I find fun. Then, apps and social media entertained me because I got to listen to music and got to be able to communicate with my friends.
+ Games connect with what I'm learning in this class because I'm trying to learn to make games, and this class can help me achieve that. Apps connect with this class because in this class making apps can be a cool yet challenging project in this class. Finally, social media connects with this class because this class can teach us to execute demands from the computer, which social media requires all the time to send messages between one another.
