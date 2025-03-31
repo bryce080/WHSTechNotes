@@ -92,3 +92,9 @@ The most interesting thing I learned last week was that I learned that Elden Rin
 # March 24, 2025
  March Madness has integrated AI for game predictions and AAR for broadcasting, changing how fans engage. AI driven predictions help fans create better brackets, but perfect bracket attempts can take away the excitement of surprises. AR improves broadcasts, making games more immersive.
   Social media and streaming make the tournament more accessible and interactive. Fans can watch anywhere, discuss games instantly, and engage with highlights. However, traditional viewing loses its uniqueness as digital content dominates the experience.
+# March 31, 2025
+1. I'm okay.
+2. The most stressful thing for me lately is the amount of work I have in my classes and more so that my gf brokeup with me and shes already moved on.
+3. Some things I do to take care of myself is to rest, talk to my friends, and play games with my friends.
+4. One goal i have for the rest of the year is to have all 90s for my class avgs.
+5. Someone I talk to when I'm feeling overwhelmed is my bestfriend, Leo. I trust them because I've known them for years and they've gone through similar experiences as I have.
