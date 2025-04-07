@@ -98,3 +98,6 @@ The most interesting thing I learned last week was that I learned that Elden Rin
 3. Some things I do to take care of myself is to rest, talk to my friends, and play games with my friends.
 4. One goal i have for the rest of the year is to have all 90s for my class avgs.
 5. Someone I talk to when I'm feeling overwhelmed is my bestfriend, Leo. I trust them because I've known them for years and they've gone through similar experiences as I have.
+# April 7, 2025
+ Tools like ChatGPT, Khanmingo, or other learning apps could help me with understanding certain concepts. The first example could be understanding how to get the tension of a rubberband in a physics problem. It would be able to give the steps on how to do it while giving a detailed explanation and finally giving me the answer.
+ AI could help me study for tests by giving me questions and helping me understand why I got it wrong, if I got it wrong. The most useful feature would be the fact it could break things down, and give you a more detailed or simplified explanation to help you understand. I would use this, mainly because I already do use it to help me understand certain concepts with my work.
