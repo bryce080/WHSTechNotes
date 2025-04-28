@@ -104,3 +104,9 @@ The most interesting thing I learned last week was that I learned that Elden Rin
 # April 14, 2025
  I think these bans are detrimental to the students. The reason I believe this is because cyberbulling isn't that much of a big deal, because all you have to do is ignore them because they don't know how you're really like. This also would disable communication between students and their parents if anything important happens.
  These policies would make students outraged, and if anything like a lockdown happened, students wouldn't be abel to notify their parents. If this happened to our school, I would be incredibly mad, and I would advocate for the removal of this policy.
+# April 28, 2025
+|Name|Flavor|Occasion|Price|
+|---|---|---|---|
+|Sally|Chocolate|Graduation|$35.00|
+|Michael|Vanilla|Farewell Party|$37.00|
+|Emma|Carrot|Birthday|$39.00| 
