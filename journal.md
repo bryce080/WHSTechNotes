@@ -110,3 +110,6 @@ The most interesting thing I learned last week was that I learned that Elden Rin
 |Sally|Chocolate|Graduation|$35.00|
 |Michael|Vanilla|Farewell Party|$37.00|
 |Emma|Carrot|Birthday|$39.00| 
+# May 5, 2025
+100 men would win against a gorilla. Based on the information given, the humans can gang up on the gorilla and the gorilla doesn't have infinite stamina. So this would mean that multiple people can take on the gorilla, confuse it, hinder its mobility, and eventually tire it out and win.
+It's not responsible to make this challenge viral. Apparently, Mr. Beast is trying to organize this challenge for a Youtube video. This would be very irresponsible, dangerous, and would inspire others to do the same, when they would definitely wouldn't have safety percausions like Mr. Beast would have.
