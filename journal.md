@@ -113,3 +113,6 @@ The most interesting thing I learned last week was that I learned that Elden Rin
 # May 5, 2025
 100 men would win against a gorilla. Based on the information given, the humans can gang up on the gorilla and the gorilla doesn't have infinite stamina. So this would mean that multiple people can take on the gorilla, confuse it, hinder its mobility, and eventually tire it out and win.
 It's not responsible to make this challenge viral. Apparently, Mr. Beast is trying to organize this challenge for a Youtube video. This would be very irresponsible, dangerous, and would inspire others to do the same, when they would definitely wouldn't have safety percausions like Mr. Beast would have.
+# May 12, 2025
+We should try to encourage people to actually take care of their chromebooks and not destroy them. We should know that there's consequences of this trend, and students should realize this. If students know this, they're more likely to not commit these acts. 
+I would say that these people would have to pay for the damages. If they would have to pay up somehow, like going to juvie. So, I think this trend is very irresponsible and that students should realize this.
