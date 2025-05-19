@@ -96,7 +96,7 @@ The most interesting thing I learned last week was that I learned that Elden Rin
 1. I'm okay.
 2. The most stressful thing for me lately is the amount of work I have in my classes and more so that my gf brokeup with me and shes already moved on.
 3. Some things I do to take care of myself is to rest, talk to my friends, and play games with my friends.
-4. One goal i have for the rest of the year is to have all 90s for my class avgs.
+4. One goal I have for the rest of the year is to have all 90s for my class avgs.
 5. Someone I talk to when I'm feeling overwhelmed is my bestfriend, Leo. I trust them because I've known them for years and they've gone through similar experiences as I have.
 # April 7, 2025
  Tools like ChatGPT, Khanmingo, or other learning apps could help me with understanding certain concepts. The first example could be understanding how to get the tension of a rubberband in a physics problem. It would be able to give the steps on how to do it while giving a detailed explanation and finally giving me the answer.
@@ -116,3 +116,5 @@ It's not responsible to make this challenge viral. Apparently, Mr. Beast is tryi
 # May 12, 2025
 We should try to encourage people to actually take care of their chromebooks and not destroy them. We should know that there's consequences of this trend, and students should realize this. If students know this, they're more likely to not commit these acts. 
 I would say that these people would have to pay for the damages. If they would have to pay up somehow, like going to juvie. So, I think this trend is very irresponsible and that students should realize this.
+# May 19, 2025
+I am excited for summer break, but only really if I actually get to hang out with friends, otherewise I'm probably going to be really bored compared to last summer.
