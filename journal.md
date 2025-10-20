@@ -132,3 +132,9 @@ The phrase "6-7" is used all around schools. So many students mention it because
 If I was in charge of my school, I'd allow web games but I'd block most of the other reasources. The reason for this is because I wouldn't want students to be using things like AI to cheat, but I think that the Google AI is fine because you can use it to help you learn something you're struggling with. The Google AI is pretty smart, but it usually isn't able to help you cheat because it gets more errors than ChatGPT or Gemini would. On the other hand, I'd allow things like phones and web games as long as you've atleast finished your work for your class, but if the teacher is lecturing or doesn't want phones in their classrom at all, the students should put away their phones until they're allowed to have it out again. So in conclusion, I'd allow students to be mostly free with their technology but I wouldn't allow them to be on things if they're being intructed, haven't finished their work, or if it's AI other than the Google AI.
 # October 14, 2025
 My prompt was designed to create an interactive project that should teach students if else statements in Python. It's supposed to let students be able to click an answer choice and it should play a correct animation if they got the question correct, and an incorrect animation if they got it incorrect. In my personal opinion, Canva interpreted the prompt perfectly because it did what I asked of it and more. The interactive part that worked the best was the correct/incorrect animations. I could improve it by asking it to make more questions, varying difficulty, and have it show how many you got correct.
+# October 20, 2025
+|Name|Class|Seat|
+|---|---|---|
+|Franklin|Second|91A|
+|Hardeep|Third|61F|
+|Marla|First|35B|
