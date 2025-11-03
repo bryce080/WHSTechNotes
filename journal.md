@@ -144,3 +144,5 @@ My prompt was designed to create an interactive project that should teach studen
 |Fiona|Gado Gado|Creme Brulee|
 |Tobias|Shrimp Ceviche|French Apple Cake|
 |Leanne|Beef Wellington|Raspberry Tiramisu|
+# November 3, 2025
+It is a big deal if SNAP runs out of funding because SNAP provides help getting food for those in need. The people of would be most affected would be the homeless, and families with low income, SNAP running out of funding makes their lifes harder and could mean the loss of lifes. Technology can help becasue it can help those in need find help to get food. Some challenges that might exist is that there asre those who don't know how to use the internet or technology, then there are those who don't even have the luxury of having a cellular device. If I was creating a tool to help solve food insecurity, I'd name it something along the lines of "Food Finder" (FF), and it would be an application/website that tells the user where to find food or assistance with food.
