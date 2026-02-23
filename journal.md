@@ -170,3 +170,5 @@ Personal hygiene and self-care is important in shared enviornments because not o
 1. I personally don't enjoy football because it doesn't interest me, tech related things interest me more than sports.
 2. I did not watch the Super Bowl LX.
 3. I have no opinion because I didn't watch it.
+# February 23, 2026
+The technology that had the biggest impact on the Olympics was AI. In the 2026 Olympics, AI was used to broadcast closer to athletes than before. This shows that AI had the biggest impact on the 2026 Olympics because before there was no possible way to get such close shots to atheletes for the media.
