@@ -172,3 +172,12 @@ Personal hygiene and self-care is important in shared enviornments because not o
 3. I have no opinion because I didn't watch it.
 # February 23, 2026
 The technology that had the biggest impact on the Olympics was AI. In the 2026 Olympics, AI was used to broadcast closer to athletes than before. This shows that AI had the biggest impact on the 2026 Olympics because before there was no possible way to get such close shots to atheletes for the media.
+# March 2, 2026
+|-|Job #1|Job #2|
+|Company|Booz Allen|USAA|
+|Job Title|Unity Developer|Software Engineer|
+|Education Required|Bachelors degree|Unity Certified|
+|Experience Required|Unity proficiency|2-5 years of Unity deveopment|
+|Skills / Tools / Languages|C#, C++, Python|C#, OOP|
+|Certifications (if any)|DoD 8140/8570 Compliance|CompTIA Security+|
+|What the job does (1–2 sentences)|A Unity Dev at Booz Allen works on "Serious Games", designed for training, engineering, and decision. They build the virtual enviornment where pilots, soldiers, or engineers practice high-stakes, tasks.|At USAA, Unity is used to create polished, acessible experiences for employees. They turn massive amounts of risk data into interactive dashboards for decision making.|
