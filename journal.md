@@ -174,6 +174,7 @@ Personal hygiene and self-care is important in shared enviornments because not o
 The technology that had the biggest impact on the Olympics was AI. In the 2026 Olympics, AI was used to broadcast closer to athletes than before. This shows that AI had the biggest impact on the 2026 Olympics because before there was no possible way to get such close shots to atheletes for the media.
 # March 2, 2026
 |-|Job #1|Job #2|
+|-|-|-|
 |Company|Booz Allen|USAA|
 |Job Title|Unity Developer|Software Engineer|
 |Education Required|Bachelors degree|Unity Certified|
