@@ -183,3 +183,9 @@ The technology that had the biggest impact on the Olympics was AI. In the 2026 O
 |Certifications (if any)|DoD 8140/8570 Compliance|CompTIA Security+|
 |What the job does (1–2 sentences)|A Unity Dev at Booz Allen works on "Serious Games", designed for training, engineering, and decision. They build the virtual enviornment where pilots, soldiers, or engineers practice high-stakes, tasks.|At USAA, Unity is used to create polished, acessible experiences for employees. They turn massive amounts of risk data into interactive dashboards for decision making.|
 I would perfer the job at Booz Allen because I'm more oriented with games, although Booz Allen focuses more on "Serious Games" while USAA focuses more on risk data. At Booz Allen, a Bachelors agree is required, you must have experience in Unity, and knowledge of multiple coding languages. While at USAA, there is no degree required, only to be certified in Unity, also requiring mutliple years of experience of Unity, and base knowledge of C#. Based off of this information, I'd lean more towards working at Booz Allen because it is more game focused, ulike USAA. Then, it requires more knowledge than what USAA requires, with examples being a Bachelors degree, multiple coding languages, and DoD Compliance.
+# March 23, 2026
+1. I chose my bracket based off of the names of the colleges, and so far its performing alright.
+2. what surprised me was that Illinois is getting pretty far.
+3. Data can improve predictions because they can get data on players and how they work with each other, giving a betetr idea on whos more likely to get to the finals.
+4. A computer program can take in all types of data on the players, teams, etc. to make pretty accurate predictions on who is to win.
+5. An analyst is a technology job that works with making predictions, like in the March Madness bracket.
